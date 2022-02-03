@@ -16,7 +16,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  baseUrl: https://logos914.github.io/potus-estado/
   logoUrl: https://www.potus.ar/institucional/publi_2.png
   name: Estado de Potus
   introTitle: Estado de la situación de Potus
