@@ -16,7 +16,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: https://logos914.github.io/potus-estado/
+  baseUrl: /potus-estado
   logoUrl: https://www.potus.ar/institucional/publi_2.png
   name: Estado de Potus
   introTitle: Estado de la situación de Potus
@@ -24,8 +24,6 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
