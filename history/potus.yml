@@ -1,7 +1,7 @@
 url: https://vod.potus.ar
-status: down
-code: 502
-responseTime: 4955
-lastUpdated: 2022-02-12T01:20:48.803Z
+status: up
+code: 200
+responseTime: 826
+lastUpdated: 2022-02-12T04:35:09.883Z
 startTime: Thu Feb 03 2022 19:26:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
