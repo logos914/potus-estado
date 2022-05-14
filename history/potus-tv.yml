@@ -1,7 +1,7 @@
 url: https://tv.potus.ar
-status: down
-code: 500
-responseTime: 652
-lastUpdated: 2022-05-14T19:26:26.423Z
+status: up
+code: 200
+responseTime: 729
+lastUpdated: 2022-05-14T19:36:36.009Z
 startTime: Thu Feb 03 2022 19:26:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
