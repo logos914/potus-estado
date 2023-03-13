@@ -1,7 +1,7 @@
 url: https://remoto.potus.ar
-status: up
-code: 200
-responseTime: 1126
-lastUpdated: 2023-03-13T18:54:36.733Z
+status: down
+code: 502
+responseTime: 764
+lastUpdated: 2023-03-13T19:09:58.357Z
 startTime: Thu Feb 03 2022 19:26:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
