@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tv.potus.ar.ico",
     "slug": "potus-tv",
     "status": "down",
-    "uptime": "88.64%",
+    "uptime": "88.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 858,
     "dailyMinutesDown": {
-      "2023-12-31": 64,
+      "2023-12-31": 280,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
@@ -162,19 +162,19 @@
     "url": "https://remoto.potus.ar",
     "icon": "https://icons.duckduckgo.com/ip3/remoto.potus.ar.ico",
     "slug": "potus-remoto",
-    "status": "up",
+    "status": "down",
     "uptime": "96.08%",
-    "uptimeDay": "95.26%",
-    "uptimeWeek": "98.93%",
+    "uptimeDay": "95.21%",
+    "uptimeWeek": "98.92%",
     "uptimeMonth": "87.62%",
-    "uptimeYear": "92.53%",
+    "uptimeYear": "92.54%",
     "time": 1240,
-    "timeDay": 1055,
+    "timeDay": 929,
     "timeWeek": 1093,
     "timeMonth": 1167,
     "timeYear": 1213,
     "dailyMinutesDown": {
-      "2023-12-31": 64,
+      "2023-12-31": 65,
       "2023-12-30": 4,
       "2023-12-26": 40,
       "2023-12-22": 474,
@@ -267,7 +267,7 @@
       "2023-01-16": 255,
       "2023-01-14": 18,
       "2023-01-13": 427,
-      "2023-01-11": 121
+      "2023-01-11": 83
     }
   },
   {
@@ -276,7 +276,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/recpilar.potus.ar.ico",
     "slug": "rec-pilar-erp",
     "status": "down",
-    "uptime": "81.51%",
+    "uptime": "81.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -287,7 +287,7 @@
     "timeMonth": 0,
     "timeYear": 1374,
     "dailyMinutesDown": {
-      "2023-12-31": 64,
+      "2023-12-31": 280,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
@@ -437,14 +437,14 @@
     "url": "https://p.potus.ar",
     "icon": "https://icons.duckduckgo.com/ip3/p.potus.ar.ico",
     "slug": "gestion-de-proyectos",
-    "status": "up",
-    "uptime": "93.32%",
-    "uptimeDay": "95.29%",
+    "status": "down",
+    "uptime": "93.76%",
+    "uptimeDay": "95.27%",
     "uptimeWeek": "99.03%",
     "uptimeMonth": "87.72%",
-    "uptimeYear": "91.59%",
+    "uptimeYear": "92.15%",
     "time": 870,
-    "timeDay": 732,
+    "timeDay": 700,
     "timeWeek": 711,
     "timeMonth": 674,
     "timeYear": 894,
@@ -543,10 +543,7 @@
       "2023-01-14": 18,
       "2023-01-13": 427,
       "2023-01-11": 170,
-      "2023-01-09": 122,
-      "2023-01-08": 1316,
-      "2023-01-07": 1440,
-      "2023-01-06": 194
+      "2023-01-09": 122
     }
   }
 ]
