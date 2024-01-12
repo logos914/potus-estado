@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 861,
     "dailyMinutesDown": {
-      "2024-01-12": 380,
+      "2024-01-12": 395,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
@@ -166,19 +166,19 @@
     "url": "https://remoto.potus.ar",
     "icon": "https://icons.duckduckgo.com/ip3/remoto.potus.ar.ico",
     "slug": "potus-remoto",
-    "status": "up",
-    "uptime": "96.26%",
-    "uptimeDay": "65.18%",
-    "uptimeWeek": "82.78%",
-    "uptimeMonth": "80.86%",
-    "uptimeYear": "92.75%",
+    "status": "down",
+    "uptime": "96.27%",
+    "uptimeDay": "65.11%",
+    "uptimeWeek": "82.77%",
+    "uptimeMonth": "80.85%",
+    "uptimeYear": "92.76%",
     "time": 1198,
     "timeDay": 1182,
     "timeWeek": 1157,
     "timeMonth": 1214,
     "timeYear": 1213,
     "dailyMinutesDown": {
-      "2024-01-12": 71,
+      "2024-01-12": 72,
       "2024-01-11": 430,
       "2024-01-10": 615,
       "2024-01-08": 619,
@@ -267,8 +267,7 @@
       "2023-02-25": 39,
       "2023-02-13": 317,
       "2023-02-04": 27,
-      "2023-02-01": 50,
-      "2023-01-24": 94
+      "2023-02-01": 50
     }
   },
   {
@@ -281,14 +280,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "75.12%",
+    "uptimeYear": "75.11%",
     "time": 1320,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1385,
     "dailyMinutesDown": {
-      "2024-01-12": 380,
+      "2024-01-12": 395,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
@@ -442,12 +441,12 @@
     "url": "https://p.potus.ar",
     "icon": "https://icons.duckduckgo.com/ip3/p.potus.ar.ico",
     "slug": "gestion-de-proyectos",
-    "status": "up",
-    "uptime": "93.59%",
-    "uptimeDay": "65.24%",
+    "status": "down",
+    "uptime": "94.03%",
+    "uptimeDay": "65.23%",
     "uptimeWeek": "82.80%",
-    "uptimeMonth": "80.90%",
-    "uptimeYear": "91.72%",
+    "uptimeMonth": "80.89%",
+    "uptimeYear": "92.28%",
     "time": 868,
     "timeDay": 693,
     "timeWeek": 676,
@@ -547,10 +546,7 @@
       "2023-01-24": 94,
       "2023-01-22": 82,
       "2023-01-21": 393,
-      "2023-01-20": 137,
-      "2023-01-18": 1252,
-      "2023-01-17": 1440,
-      "2023-01-16": 255
+      "2023-01-20": 137
     }
   }
 ]
