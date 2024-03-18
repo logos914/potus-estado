@@ -11,9 +11,9 @@
     "uptimeMonth": "91.40%",
     "uptimeYear": "72.58%",
     "time": 863,
-    "timeDay": 1079,
-    "timeWeek": 955,
-    "timeMonth": 893,
+    "timeDay": 756,
+    "timeWeek": 929,
+    "timeMonth": 888,
     "timeYear": 871,
     "dailyMinutesDown": {
       "2024-03-17": 676,
@@ -174,8 +174,7 @@
       "2023-04-02": 155,
       "2023-03-29": 19,
       "2023-03-22": 260,
-      "2023-03-20": 1311,
-      "2023-03-19": 261
+      "2023-03-20": 1311
     }
   },
   {
@@ -190,9 +189,9 @@
     "uptimeMonth": "91.41%",
     "uptimeYear": "91.51%",
     "time": 1198,
-    "timeDay": 1200,
-    "timeWeek": 1200,
-    "timeMonth": 1139,
+    "timeDay": 1280,
+    "timeWeek": 1236,
+    "timeMonth": 1137,
     "timeYear": 1190,
     "dailyMinutesDown": {
       "2024-03-17": 676,
@@ -298,18 +297,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/recpilar.potus.ar.ico",
     "slug": "rec-pilar-erp",
     "status": "down",
-    "uptime": "69.73%",
+    "uptime": "69.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "58.11%",
-    "time": 1375,
+    "uptimeYear": "58.01%",
+    "time": 1376,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1008,
     "dailyMinutesDown": {
-      "2024-03-17": 967,
+      "2024-03-18": 33,
+      "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
@@ -501,8 +501,7 @@
       "2023-04-02": 154,
       "2023-03-29": 19,
       "2023-03-22": 259,
-      "2023-03-20": 1297,
-      "2023-03-19": 260
+      "2023-03-20": 1297
     }
   },
   {
@@ -511,15 +510,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/p.potus.ar.ico",
     "slug": "gestion-de-proyectos",
     "status": "up",
-    "uptime": "94.36%",
+    "uptime": "94.37%",
     "uptimeDay": "53.08%",
     "uptimeWeek": "93.10%",
     "uptimeMonth": "91.42%",
     "uptimeYear": "91.71%",
-    "time": 873,
-    "timeDay": 700,
-    "timeWeek": 792,
-    "timeMonth": 742,
+    "time": 872,
+    "timeDay": 702,
+    "timeWeek": 785,
+    "timeMonth": 734,
     "timeYear": 852,
     "dailyMinutesDown": {
       "2024-03-17": 676,
