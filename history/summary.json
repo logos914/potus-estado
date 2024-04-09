@@ -11,10 +11,10 @@
     "uptimeMonth": "91.78%",
     "uptimeYear": "72.61%",
     "time": 869,
-    "timeDay": 909,
-    "timeWeek": 885,
-    "timeMonth": 882,
-    "timeYear": 847,
+    "timeDay": 944,
+    "timeWeek": 903,
+    "timeMonth": 885,
+    "timeYear": 848,
     "dailyMinutesDown": {
       "2024-04-08": 19,
       "2024-04-04": 19,
@@ -175,8 +175,7 @@
       "2023-04-19": 1440,
       "2023-04-18": 1151,
       "2023-04-17": 229,
-      "2023-04-11": 866,
-      "2023-04-10": 121
+      "2023-04-11": 866
     }
   },
   {
@@ -191,9 +190,9 @@
     "uptimeMonth": "91.82%",
     "uptimeYear": "91.70%",
     "time": 1212,
-    "timeDay": 862,
-    "timeWeek": 1232,
-    "timeMonth": 1307,
+    "timeDay": 1259,
+    "timeWeek": 1225,
+    "timeMonth": 1310,
     "timeYear": 1181,
     "dailyMinutesDown": {
       "2024-04-04": 19,
@@ -297,18 +296,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/recpilar.potus.ar.ico",
     "slug": "rec-pilar-erp",
     "status": "down",
-    "uptime": "66.95%",
+    "uptime": "66.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.51%",
-    "time": 1383,
+    "uptimeYear": "52.49%",
+    "time": 1384,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 829,
     "dailyMinutesDown": {
-      "2024-04-08": 1336,
+      "2024-04-09": 33,
+      "2024-04-08": 1440,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
       "2024-04-05": 1440,
@@ -517,8 +517,7 @@
       "2023-04-18": 1440,
       "2023-04-17": 1374,
       "2023-04-15": 50,
-      "2023-04-11": 866,
-      "2023-04-10": 119
+      "2023-04-11": 866
     }
   },
   {
@@ -532,10 +531,10 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "91.81%",
     "uptimeYear": "91.84%",
-    "time": 870,
-    "timeDay": 1284,
-    "timeWeek": 707,
-    "timeMonth": 741,
+    "time": 871,
+    "timeDay": 821,
+    "timeWeek": 725,
+    "timeMonth": 748,
     "timeYear": 827,
     "dailyMinutesDown": {
       "2024-04-04": 18,
