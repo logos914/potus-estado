@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tv.potus.ar.ico",
     "slug": "potus-tv",
     "status": "up",
-    "uptime": "87.40%",
+    "uptime": "87.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.15%",
-    "uptimeYear": "73.05%",
+    "uptimeYear": "73.32%",
     "time": 869,
-    "timeDay": 1103,
-    "timeWeek": 928,
-    "timeMonth": 873,
+    "timeDay": 820,
+    "timeWeek": 963,
+    "timeMonth": 874,
     "timeYear": 846,
     "dailyMinutesDown": {
       "2024-04-10": 109,
@@ -170,8 +170,7 @@
       "2023-05-02": 20,
       "2023-04-30": 165,
       "2023-04-29": 482,
-      "2023-04-27": 224,
-      "2023-04-21": 306
+      "2023-04-27": 224
     }
   },
   {
@@ -185,11 +184,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.20%",
     "uptimeYear": "91.70%",
-    "time": 1211,
-    "timeDay": 1684,
-    "timeWeek": 1243,
-    "timeMonth": 1299,
-    "timeYear": 1181,
+    "time": 1210,
+    "timeDay": 1259,
+    "timeWeek": 1282,
+    "timeMonth": 1308,
+    "timeYear": 1183,
     "dailyMinutesDown": {
       "2024-04-10": 109,
       "2024-04-04": 19,
@@ -291,7 +290,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/recpilar.potus.ar.ico",
     "slug": "rec-pilar-erp",
     "status": "down",
-    "uptime": "65.76%",
+    "uptime": "65.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -302,7 +301,8 @@
     "timeMonth": 0,
     "timeYear": 810,
     "dailyMinutesDown": {
-      "2024-04-19": 33,
+      "2024-04-20": 32,
+      "2024-04-19": 1440,
       "2024-04-18": 1440,
       "2024-04-17": 1440,
       "2024-04-16": 1440,
@@ -515,8 +515,7 @@
       "2023-04-25": 767,
       "2023-04-24": 1440,
       "2023-04-23": 1440,
-      "2023-04-22": 1440,
-      "2023-04-21": 1440
+      "2023-04-22": 1440
     }
   },
   {
@@ -525,16 +524,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/p.potus.ar.ico",
     "slug": "gestion-de-proyectos",
     "status": "up",
-    "uptime": "94.81%",
+    "uptime": "94.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.18%",
     "uptimeYear": "91.91%",
     "time": 866,
-    "timeDay": 670,
-    "timeWeek": 732,
-    "timeMonth": 737,
-    "timeYear": 824,
+    "timeDay": 916,
+    "timeWeek": 769,
+    "timeMonth": 745,
+    "timeYear": 825,
     "dailyMinutesDown": {
       "2024-04-10": 107,
       "2024-04-04": 18,
