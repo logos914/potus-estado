@@ -1,7 +1,7 @@
 url: https://p.potus.ar
-status: up
-code: 200
-responseTime: 807
-lastUpdated: 2024-04-23T23:15:06.432Z
+status: down
+code: 502
+responseTime: 4006
+lastUpdated: 2024-04-24T04:42:06.557Z
 startTime: 2022-09-27T20:45:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
