@@ -292,18 +292,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/recpilar.potus.ar.ico",
     "slug": "rec-pilar-erp",
     "status": "down",
-    "uptime": "52.72%",
+    "uptime": "52.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "15.85%",
+    "uptimeYear": "15.83%",
     "time": 796,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 810,
     "dailyMinutesDown": {
-      "2024-09-06": 1223,
+      "2024-09-06": 1318,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
       "2024-09-03": 1440,
@@ -628,12 +628,12 @@
     "url": "https://p.potus.ar",
     "icon": "https://icons.duckduckgo.com/ip3/p.potus.ar.ico",
     "slug": "gestion-de-proyectos",
-    "status": "up",
-    "uptime": "95.45%",
-    "uptimeDay": "97.72%",
+    "status": "down",
+    "uptime": "95.47%",
+    "uptimeDay": "97.70%",
     "uptimeWeek": "98.87%",
     "uptimeMonth": "99.38%",
-    "uptimeYear": "91.16%",
+    "uptimeYear": "91.20%",
     "time": 797,
     "timeDay": 1431,
     "timeWeek": 913,
@@ -738,8 +738,7 @@
       "2023-10-06": 53,
       "2023-09-28": 46,
       "2023-09-20": 260,
-      "2023-09-19": 169,
-      "2023-09-16": 200
+      "2023-09-19": 169
     }
   }
 ]
