@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tv.potus.ar.ico",
     "slug": "potus-tv",
     "status": "up",
-    "uptime": "90.67%",
+    "uptime": "90.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "81.98%",
-    "time": 920,
-    "timeDay": 848,
-    "timeWeek": 857,
-    "timeMonth": 926,
+    "uptimeYear": "82.26%",
+    "time": 919,
+    "timeDay": 751,
+    "timeWeek": 864,
+    "timeMonth": 923,
     "timeYear": 940,
     "dailyMinutesDown": {
       "2024-11-12": 26,
@@ -131,8 +131,7 @@
       "2023-12-11": 1440,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
-      "2023-12-08": 1440,
-      "2023-12-07": 1440
+      "2023-12-08": 1440
     }
   },
   {
@@ -147,9 +146,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "92.38%",
     "time": 1188,
-    "timeDay": 1116,
-    "timeWeek": 1137,
-    "timeMonth": 1081,
+    "timeDay": 1081,
+    "timeWeek": 1149,
+    "timeMonth": 1085,
     "timeYear": 1203,
     "dailyMinutesDown": {
       "2024-11-12": 25,
@@ -253,7 +252,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/recpilar.potus.ar.ico",
     "slug": "rec-pilar-erp",
     "status": "down",
-    "uptime": "46.84%",
+    "uptime": "46.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -264,7 +263,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-05": 48,
+      "2024-12-06": 47,
+      "2024-12-05": 1440,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
       "2024-12-02": 1440,
@@ -627,8 +627,7 @@
       "2023-12-11": 1440,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
-      "2023-12-08": 1440,
-      "2023-12-07": 1440
+      "2023-12-08": 1440
     }
   },
   {
@@ -637,14 +636,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/p.potus.ar.ico",
     "slug": "gestion-de-proyectos",
     "status": "up",
-    "uptime": "96.04%",
+    "uptime": "96.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "92.17%",
     "time": 803,
-    "timeDay": 784,
-    "timeWeek": 727,
+    "timeDay": 584,
+    "timeWeek": 678,
     "timeMonth": 735,
     "timeYear": 767,
     "dailyMinutesDown": {
