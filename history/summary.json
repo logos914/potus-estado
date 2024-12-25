@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tv.potus.ar.ico",
     "slug": "potus-tv",
     "status": "up",
-    "uptime": "90.91%",
+    "uptime": "90.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.01%",
-    "uptimeYear": "87.11%",
+    "uptimeYear": "87.38%",
     "time": 923,
-    "timeDay": 1007,
-    "timeWeek": 931,
-    "timeMonth": 908,
+    "timeDay": 941,
+    "timeWeek": 982,
+    "timeMonth": 905,
     "timeYear": 939,
     "dailyMinutesDown": {
       "2024-12-16": 16,
@@ -115,8 +115,7 @@
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
-      "2023-12-27": 1440,
-      "2023-12-26": 1440
+      "2023-12-27": 1440
     }
   },
   {
@@ -125,15 +124,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/remoto.potus.ar.ico",
     "slug": "potus-remoto",
     "status": "up",
-    "uptime": "97.33%",
+    "uptime": "97.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.01%",
     "uptimeYear": "93.31%",
     "time": 1192,
-    "timeDay": 1295,
-    "timeWeek": 1184,
-    "timeMonth": 1165,
+    "timeDay": 1170,
+    "timeWeek": 1179,
+    "timeMonth": 1161,
     "timeYear": 1201,
     "dailyMinutesDown": {
       "2024-12-16": 16,
@@ -222,8 +221,7 @@
       "2024-01-04": 583,
       "2024-01-02": 546,
       "2023-12-31": 192,
-      "2023-12-30": 4,
-      "2023-12-26": 40
+      "2023-12-30": 4
     }
   },
   {
@@ -232,7 +230,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/recpilar.potus.ar.ico",
     "slug": "rec-pilar-erp",
     "status": "down",
-    "uptime": "45.75%",
+    "uptime": "45.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -243,7 +241,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-24": 43,
+      "2024-12-25": 43,
+      "2024-12-24": 1440,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
@@ -606,8 +605,7 @@
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
-      "2023-12-27": 1440,
-      "2023-12-26": 1440
+      "2023-12-27": 1440
     }
   },
   {
@@ -622,9 +620,9 @@
     "uptimeMonth": "99.05%",
     "uptimeYear": "93.10%",
     "time": 803,
-    "timeDay": 621,
-    "timeWeek": 780,
-    "timeMonth": 744,
+    "timeDay": 585,
+    "timeWeek": 730,
+    "timeMonth": 741,
     "timeYear": 771,
     "dailyMinutesDown": {
       "2024-12-10": 100,
@@ -712,8 +710,7 @@
       "2024-01-04": 582,
       "2024-01-02": 546,
       "2023-12-31": 191,
-      "2023-12-30": 4,
-      "2023-12-26": 30
+      "2023-12-30": 4
     }
   }
 ]
