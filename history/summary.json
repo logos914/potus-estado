@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tv.potus.ar.ico",
     "slug": "potus-tv",
     "status": "up",
-    "uptime": "90.69%",
-    "uptimeDay": "29.34%",
+    "uptime": "90.70%",
+    "uptimeDay": "66.44%",
     "uptimeWeek": "54.97%",
     "uptimeMonth": "88.65%",
-    "uptimeYear": "87.71%",
-    "time": 925,
-    "timeDay": 1008,
-    "timeWeek": 1000,
-    "timeMonth": 917,
-    "timeYear": 939,
+    "uptimeYear": "87.89%",
+    "time": 926,
+    "timeDay": 894,
+    "timeWeek": 999,
+    "timeMonth": 922,
+    "timeYear": 940,
     "dailyMinutesDown": {
       "2024-12-29": 528,
       "2024-12-28": 490,
@@ -115,8 +115,7 @@
       "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
-      "2024-01-01": 1440,
-      "2023-12-31": 1440
+      "2024-01-01": 1440
     }
   },
   {
@@ -126,15 +125,15 @@
     "slug": "potus-remoto",
     "status": "up",
     "uptime": "97.25%",
-    "uptimeDay": "29.37%",
+    "uptimeDay": "66.44%",
     "uptimeWeek": "55.00%",
     "uptimeMonth": "88.66%",
     "uptimeYear": "92.45%",
     "time": 1193,
-    "timeDay": 950,
-    "timeWeek": 1171,
-    "timeMonth": 1162,
-    "timeYear": 1202,
+    "timeDay": 909,
+    "timeWeek": 1130,
+    "timeMonth": 1155,
+    "timeYear": 1201,
     "dailyMinutesDown": {
       "2024-12-29": 528,
       "2024-12-28": 489,
@@ -225,8 +224,7 @@
       "2024-01-10": 615,
       "2024-01-08": 619,
       "2024-01-04": 583,
-      "2024-01-02": 546,
-      "2023-12-31": 192
+      "2024-01-02": 546
     }
   },
   {
@@ -235,7 +233,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/recpilar.potus.ar.ico",
     "slug": "rec-pilar-erp",
     "status": "down",
-    "uptime": "45.45%",
+    "uptime": "45.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -246,7 +244,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-29": 528,
+      "2024-12-30": 45,
+      "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
@@ -609,8 +608,7 @@
       "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
-      "2024-01-01": 1440,
-      "2023-12-31": 1440
+      "2024-01-01": 1440
     }
   },
   {
@@ -620,14 +618,14 @@
     "slug": "gestion-de-proyectos",
     "status": "up",
     "uptime": "96.26%",
-    "uptimeDay": "29.41%",
+    "uptimeDay": "66.44%",
     "uptimeWeek": "55.01%",
     "uptimeMonth": "88.70%",
     "uptimeYear": "92.24%",
     "time": 796,
-    "timeDay": 600,
+    "timeDay": 674,
     "timeWeek": 734,
-    "timeMonth": 733,
+    "timeMonth": 737,
     "timeYear": 772,
     "dailyMinutesDown": {
       "2024-12-29": 528,
@@ -718,8 +716,7 @@
       "2024-01-10": 615,
       "2024-01-08": 619,
       "2024-01-04": 582,
-      "2024-01-02": 546,
-      "2023-12-31": 191
+      "2024-01-02": 546
     }
   }
 ]
