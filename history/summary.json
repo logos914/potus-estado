@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tv.potus.ar.ico",
     "slug": "potus-tv",
     "status": "up",
-    "uptime": "89.06%",
+    "uptime": "89.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.14%",
-    "uptimeMonth": "90.39%",
+    "uptimeMonth": "93.68%",
     "uptimeYear": "89.04%",
     "time": 926,
-    "timeDay": 652,
-    "timeWeek": 763,
+    "timeDay": 757,
+    "timeWeek": 756,
     "timeMonth": 767,
-    "timeYear": 933,
+    "timeYear": 932,
     "dailyMinutesDown": {
       "2025-02-21": 418,
       "2025-02-19": 274,
@@ -107,8 +107,7 @@
       "2024-03-10": 417,
       "2024-03-03": 547,
       "2024-03-02": 489,
-      "2024-02-29": 254,
-      "2024-02-27": 442
+      "2024-02-29": 254
     }
   },
   {
@@ -117,15 +116,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/remoto.potus.ar.ico",
     "slug": "potus-remoto",
     "status": "up",
-    "uptime": "97.36%",
+    "uptime": "97.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.16%",
     "uptimeMonth": "96.57%",
     "uptimeYear": "94.52%",
     "time": 1194,
-    "timeDay": 1306,
-    "timeWeek": 1120,
-    "timeMonth": 1198,
+    "timeDay": 1238,
+    "timeWeek": 1114,
+    "timeMonth": 1207,
     "timeYear": 1200,
     "dailyMinutesDown": {
       "2025-02-21": 416,
@@ -201,8 +200,7 @@
       "2024-03-10": 417,
       "2024-03-03": 546,
       "2024-03-02": 489,
-      "2024-02-29": 254,
-      "2024-02-27": 442
+      "2024-02-29": 254
     }
   },
   {
@@ -211,18 +209,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/recpilar.potus.ar.ico",
     "slug": "rec-pilar-erp",
     "status": "down",
-    "uptime": "42.48%",
+    "uptime": "42.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 678,
+    "time": 681,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-25": 44,
+      "2025-02-26": 44,
+      "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
@@ -585,8 +584,7 @@
       "2024-03-02": 1440,
       "2024-03-01": 1440,
       "2024-02-29": 1440,
-      "2024-02-28": 1440,
-      "2024-02-27": 1440
+      "2024-02-28": 1440
     }
   },
   {
@@ -595,18 +593,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/p.potus.ar.ico",
     "slug": "gestion-de-proyectos",
     "status": "down",
-    "uptime": "90.66%",
+    "uptime": "90.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "80.88%",
+    "uptimeYear": "80.61%",
     "time": 770,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 776,
     "dailyMinutesDown": {
-      "2025-02-25": 44,
+      "2025-02-26": 44,
+      "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
@@ -721,8 +720,7 @@
       "2024-03-10": 416,
       "2024-03-03": 545,
       "2024-03-02": 488,
-      "2024-02-29": 254,
-      "2024-02-27": 441
+      "2024-02-29": 254
     }
   }
 ]
